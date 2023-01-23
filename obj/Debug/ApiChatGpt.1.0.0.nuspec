@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ApiChatGpt</id>
+    <version>1.0.0</version>
+    <authors>ApiChatGpt</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\Estudo de Desenvolvimento\CSharp\ApiChatGpt\bin\Debug\net6.0\ApiChatGpt.runtimeconfig.json" target="lib\net6.0\ApiChatGpt.runtimeconfig.json" />
+    <file src="D:\Estudo de Desenvolvimento\CSharp\ApiChatGpt\bin\Debug\net6.0\ApiChatGpt.dll" target="lib\net6.0\ApiChatGpt.dll" />
+  </files>
+</package>
